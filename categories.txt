@@ -1,0 +1,11 @@
+Melee
+    Uses non ranged attacks
+    No more than basic interaction with the user
+Duo
+    Fight multiple bosses at once
+Ranged
+    Fight includes ranged projectiles
+Arena
+    Boss uses obstacles instead of attacking you directly
+Minion
+    Spawns minions
