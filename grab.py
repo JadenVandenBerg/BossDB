@@ -56,8 +56,8 @@ def save_to_json(data, filename):
         json.dump(data, json_file, indent=4)
 
 if __name__ == "__main__":
-    API_KEY = "AIzaSyC_wC7sgC5MI2pwA5i-j6qiiX4om8K3iGM"
-    CHANNEL_ID = "UCqc_rOtRwqyc-iC63-Z046g"
+    API_KEY = ""
+    CHANNEL_ID = ""
 
     videos = get_youtube_videos(API_KEY, CHANNEL_ID)
 
